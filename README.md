@@ -24,7 +24,7 @@
 
 Клонирование репозитория:
    ```bash
-    git clone https://github.com/alkmanistik/sportClubAttendance.git
+    git clone https://github.com/dev-srpo/sportClubAttendance.git
    ```
 
 ## Project structure
